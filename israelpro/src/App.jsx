@@ -74,6 +74,7 @@ export default function App() {
 
   return (
     <div style={{ maxWidth: 520, margin: "40px auto", padding: 20, fontFamily: "system-ui, sans-serif" }}>
+      <p>built by israel chilawa. v1 on 15th NOV</p>
       <h1>Contact Us </h1>
 
       {submitted && <div style={{ color: "green", marginBottom: 12 }}>Thanks — your message was sent!</div>}
